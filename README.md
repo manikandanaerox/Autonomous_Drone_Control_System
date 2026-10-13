@@ -1,4 +1,4 @@
-# addc2026
+# autonomous drone design challenge 2026
 
 Unified drone controller that combines camera capture, QR detection, servo actuation, Pixhawk RTL, and video streaming. It uses a single camera feed for all pipelines and can optionally forward frames to a Windows server API.
 
